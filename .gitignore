@@ -1,9 +1,0 @@
-# Archivos del sistema
-.DS_Store
-Thumbs.db
-
-# Logs
-*.log
-
-# Node
-node_modules/
